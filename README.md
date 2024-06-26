@@ -1,5 +1,5 @@
 
-[![MasterHead ]()](https://thedivyapawar.io)
+
 
 <h1 align="center">Hi 👋, I'm Divya Pawar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
