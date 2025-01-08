@@ -8,7 +8,7 @@
 
 - 📄 Resume [https://drive.google.com/file/d/1HeAoNGCo-16l62y1Ju7PaN2-GSg8E_bE](https://drive.google.com/file/d/1HeAoNGCo-16l62y1Ju7PaN2-GSg8E_bE)
 
-- 💬 Ask me about **React JS, Vue JS, Core Java, Python, HTML, CSS, JS, MySQL**
+- 💬 Ask me about **React JS, Vue JS, Javascript, Core Java, Python, HTML, CSS, MySQL**
 
 - 📫 How to reach me **heydivyapawar@gmail.com**
 
