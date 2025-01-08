@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divya Pawar</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif">
 
 - 🌱 Enthusiastic about **Software Development**
