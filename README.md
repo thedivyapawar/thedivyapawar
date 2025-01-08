@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif">
 
-- 🌱 I’m currently learning **Web Development, Software Development**
+- 🌱 Enthusiastic about **Software Development**
 
 - 👨‍💻 All of my projects are available at [https://divya-pawar-portfolio.vercel.app/](https://divya-pawar-portfolio.vercel.app/)
 
